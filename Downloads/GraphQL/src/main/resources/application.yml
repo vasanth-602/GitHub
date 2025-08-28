@@ -1,0 +1,4 @@
+server.port: 8323
+
+adapter:
+  base.url: https://rahulshettyacademy.com/gq/graphql

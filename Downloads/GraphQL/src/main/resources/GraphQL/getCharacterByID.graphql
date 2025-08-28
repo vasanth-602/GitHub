@@ -1,0 +1,12 @@
+query {
+    character(characterId: 2137) {
+        name
+        type
+        gender
+        status
+        location {
+            name
+            dimension
+        }
+    }
+}
